@@ -18,3 +18,6 @@ The project encourages users to take small steps outside their comfort zone and 
 - **Languages:** HTML, CSS, JavaScript  
 - **Design:** Responsive layout, animation effects, and ambient color palette  
 - **Integration:** Custom audio controls, random generator logic, social-share API links  
+
+This project is part of the course **01236261 - Mobile Application Development**
+at *King Mongkut’s Institute of Technology Ladkrabang (KMITL)*
